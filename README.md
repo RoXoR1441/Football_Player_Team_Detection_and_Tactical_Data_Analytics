@@ -11,6 +11,7 @@ Homographic Transformation: Applied for aligning the field and tactical maps wit
 Color Palette Matching: Used to identify and differentiate teams based on the color of their jerseys.
 Tactical Maps: Visualize player positions and movements on a 2D tactical map, providing insights into team formations and strategies.
 Ball Possession Analysis: Determine ball possession and analyze team performance over the course of the game.
+
 Technologies Used
 Python
 YOLOv8: Object detection model for identifying players and the ball.
